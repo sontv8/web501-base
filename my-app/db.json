@@ -1,0 +1,30 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Product 1",
+      "price": 100,
+      "image": "https://picsum.photos/200/120"
+    },
+    {
+      "id": 2,
+      "name": "Product 2",
+      "price": 200,
+      "image": "https://picsum.photos/200/120"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "user",
+      "password": "123456",
+      "email": "user@gmail.com"
+    },
+    {
+      "id": 2,
+      "username": "admin",
+      "password": "123456",
+      "email": "admin@gmail.com"
+    }
+  ]
+}
